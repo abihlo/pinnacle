@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 def testModule():
 	print('Test!')
 
+def defineDomain():
+
 
 def defineCollocationPoints(steps=100):
 
