@@ -6,6 +6,7 @@ def testModule():
 	print('Test!')
 
 def defineDomain():
+	pass
 
 
 def defineCollocationPoints(steps=100):
