@@ -1,3 +1,7 @@
+def testModule():
+	print('Test!')
+
+
 def defineCollocationPoints(steps=100):
 
   t = np.linspace(t0, tfinal, steps)
